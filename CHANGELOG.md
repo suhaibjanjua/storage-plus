@@ -8,7 +8,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [1.0.0] - 2025-06-09
 
 ### Added
-- Initial release of StoragePlus
+- Initial release of StoragePlus under @sj-utils/storage-plus
 - Auto-expiry functionality with TTL support
 - Namespacing to avoid key collisions
 - Unified API for localStorage and sessionStorage
