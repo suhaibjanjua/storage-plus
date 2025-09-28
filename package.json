@@ -1,5 +1,5 @@
 {
-  "name": "storage-plus",
+  "name": "@suhaibjanjua/storage-plus",
   "version": "1.0.0",
   "description": "A lightweight wrapper for localStorage and sessionStorage with auto-expiry and namespacing support",
   "main": "dist/index.js",
