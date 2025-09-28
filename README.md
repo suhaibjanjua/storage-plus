@@ -14,13 +14,13 @@ A lightweight TypeScript wrapper for `localStorage` and `sessionStorage` with au
 ## Installation
 
 ```bash
-npm install storageplus
+npm install @suhaib.janjua/storageplus
 ```
 
 ## Quick Start
 
 ```typescript
-import { storage, createLocalStorage, createSessionStorage } from 'storageplus';
+import { storage, createLocalStorage, createSessionStorage } from '@suhaib.janjua/storageplus';
 
 // Use default instances
 storage.local.set('user', { name: 'John', age: 30 });
