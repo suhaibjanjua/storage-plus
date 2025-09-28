@@ -32,12 +32,12 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/suhaibjanjua/storage-plus.git"
+    "url": "git+https://github.com/suhaibjanjua/storageplus.git"
   },
   "bugs": {
-    "url": "https://github.com/suhaibjanjua/storage-plus/issues"
+    "url": "https://github.com/suhaibjanjua/storageplus/issues"
   },
-  "homepage": "https://github.com/suhaibjanjua/storage-plus#readme",
+  "homepage": "https://github.com/suhaibjanjua/storageplus#readme",
   "devDependencies": {
     "@rollup/plugin-typescript": "^11.1.0",
     "@types/jest": "^29.5.0",
